@@ -1,4 +1,5 @@
 import { login } from '@/api/user'
+// 登录
 const state = {
   token: null
 }
